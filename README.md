@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I am <a href="https://ronakpatel.xyz/" target="_blank" rel="noopener noreferrer">Ronak Patel</a> a passionate software engineer with experience in Python, Java, and web development. I currently work at Capgemini, where I am constantly learning and implementing new technologies to create efficient and effective software solutions.
+ Hi, I am [Ronak Patel](https://ronakpatel.xyz/) a passionate software engineer with experience in Python, Java, and web development. I currently work at Capgemini, where I am constantly learning and implementing new technologies to create efficient and effective software solutions.
 
 
 ## 🌐 Socials:
