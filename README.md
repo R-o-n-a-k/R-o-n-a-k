@@ -26,31 +26,9 @@ const mySkills = {
 
 </div>
 
-## Featured Projects
-<div align="center">
-<table>
-  <tr>
- <td align="center">
-      <a href="https://github.com/R-o-n-a-k/FND">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&repo=FND" alt="Fake News Detection" />
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/R-o-n-a-k/React-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&repo=React-Projects" alt="React-Projects" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-      <a href="https://github.com/R-o-n-a-k/React-Personal-Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&repo=React-Personal-Portfolio" alt="React-Personal-Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <hr>
+<div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU5aWJ2aDcwcW0zd3l4N3p0b2Z3dXNyZ3JocWxpc3ZscnB4bGE3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rnb5VoZiIyIM0/giphy.gif" height="30"> <em><b>Always up for a chat & collabrate to bring creative ideas to life!</b>💻<3</em>
 
+</div>
 
