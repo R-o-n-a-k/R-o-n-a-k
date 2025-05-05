@@ -1,24 +1,56 @@
-# 💫 About Me:
 ![Myself](./assets/Github.png)
 
+ Hi, I am [Ronak Patel](https://ronakjpatel.in/), a software engineer passionate about crafting clean, user-friendly web apps with React, Node.js, and Python. I blend technical skills with an eye for design, turning ideas into reliable, scalable software. From full-stack development to automation and UI/UX, I’m always eager to learn, grow, and make a real impact.
+<br>
+<br>
 
- Hi, I am [Ronak Patel](https://ronakjpatel.in/) a passionate software engineer with experience in Python, Java, and web development. I currently work at Capgemini, where I am constantly learning and implementing new technologies to create efficient and effective software solutions.
+## Tech Stack
+```javascript
+const mySkills = {
+    techStack: {
+        languages: ["JavaScript", "Python", "Java", "HTML", "CSS","SCSS", "SQL"],
+        libraries: ["React"],
+        frameworks: ["Vite", "Node.js", "Flask", "Bootstrap", "Bootstrap"],
+        testing: ["Codecept", "Selenium", "ETL"]
+        deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
+    },
+    designTools: ["Figma", "Procreate"],
+};
+```
+
+## GitHub Stats:
+<div align="center">
+ 
+  ![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-n-a-k&langs_count=10&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+## Featured Projects
+<div align="center">
+<table>
+  <tr>
+ <td align="center">
+      <a href="https://github.com/R-o-n-a-k/FND">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&repo=FND" alt="Fake News Detection" />
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/R-o-n-a-k/React-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&repo=React-Projects" alt="React-Projects" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <a href="https://github.com/R-o-n-a-k/React-Personal-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&repo=React-Personal-Portfolio" alt="React-Personal-Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU5aWJ2aDcwcW0zd3l4N3p0b2Z3dXNyZ3JocWxpc3ZscnB4bGE3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rnb5VoZiIyIM0/giphy.gif" height="30"> <em><b>Always up for a chat & collabrate to bring creative ideas to life!</b>💻<3</em>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ronak-j-patel/)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=R-o-n-a-k&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=R-o-n-a-k&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-n-a-k&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=R-o-n-a-k&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=R-o-n-a-k&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
