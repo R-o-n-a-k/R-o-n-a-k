@@ -11,7 +11,7 @@ const mySkills = {
         languages: ["JavaScript", "Python", "Java", "HTML", "CSS","SCSS", "SQL"],
         libraries: ["React"],
         frameworks: ["Vite", "Node.js", "Flask", "Bootstrap", "Bootstrap"],
-        testing: ["Codecept", "Selenium", "ETL"]
+        testing: ["Codecept", "Selenium", "ETL"],
         deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
     },
     designTools: ["Figma", "Procreate"],
