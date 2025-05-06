@@ -2,7 +2,6 @@
 
  Hi, I am [Ronak Patel](https://ronakjpatel.in/), a software engineer passionate about crafting clean, user-friendly web apps with React, Node.js, and Python. I blend technical skills with an eye for design, turning ideas into reliable, scalable software. From full-stack development to automation and UI/UX, I’m always eager to learn, grow, and make a real impact.
 <br>
-<br>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBxY2FyODBsc2VobTc2NGF4OGU2eWF4cDFpZ2JmOGY4a2N3anRsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="50"> Tech Stack 
 ```javascript 
@@ -17,12 +16,15 @@ const mySkills = {
     designTools: ["Figma", "Procreate"],
 };
 ```
+<br>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVldmw4aG5nNXA5ODFkaXhjbmF0dWFvOTc5d3RnM3dzbG1mOTRxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif" width="50"> GitHub Stats
 <div align="center">
-  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-n-a-k&langs_count=10&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&ts=1" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-n-a-k&langs_count=10&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact&ts=1" height="200">
+
 </div>
+<br>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9yamV4dHllOWN1emkwaWtmcXMxcHk1YWljdXpoaHJvcXViYTlpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MfnJATkfrAIBG/giphy.gif" width="50"> Let's Connect
 <p align="left">
