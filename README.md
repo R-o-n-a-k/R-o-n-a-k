@@ -1,4 +1,4 @@
-![Myself](./assets/Github.png)
+![Myself](./assets/GithubBanner.png)
 
  Hi, I am [Ronak Patel](https://ronakjpatel.in/), a software engineer passionate about crafting clean, user-friendly web apps with React, Node.js, and Python. I blend technical skills with an eye for design, turning ideas into reliable, scalable software. From full-stack development to automation and UI/UX, I’m always eager to learn, grow, and make a real impact.
 <br>
