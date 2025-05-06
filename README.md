@@ -28,9 +28,9 @@ const mySkills = {
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9yamV4dHllOWN1emkwaWtmcXMxcHk1YWljdXpoaHJvcXViYTlpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MfnJATkfrAIBG/giphy.gif" width="50"> Let's Connect
 <p align="left">
-<a href="https://ronakjpatel.in/" target="_blank"><img src="https://img.shields.io/badge/portfolio-%236C63FF.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" height="25"></a> 
-<a href="https://www.linkedin.com/in/ronak-j-patel/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/thecopyartist_/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logoColor=white" height="25"></a>
+<a href="https://ronakjpatel.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/portfolio-%236C63FF.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" height="25"></a> 
+<a href="https://www.linkedin.com/in/ronak-j-patel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/thecopyartist_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logoColor=white" height="25"></a>
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=email&logoColor=white" height="25">
 </a>
