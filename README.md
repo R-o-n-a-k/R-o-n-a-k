@@ -33,7 +33,7 @@ const mySkills = {
 <a href="https://ronakjpatel.in/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/portfolio-%236C63FF.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" height="25"></a> 
 <a href="https://www.linkedin.com/in/ronak-j-patel/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/thecopyartist_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logoColor=white" height="25"></a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:ronak.p.1206@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=email&logoColor=white" height="25">
 </a>
 </p>
