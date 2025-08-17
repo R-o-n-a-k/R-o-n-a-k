@@ -11,7 +11,7 @@ const mySkills = {
     techStack: {
         languages: ["JavaScript", "Python", "Java", "HTML", "CSS","SCSS", "SQL"],
         libraries: ["React"],
-        frameworks: ["Vite", "Node.js", "Flask", "Bootstrap"],
+        frameworks: ["Next.js","Vite", "Node.js", "Flask", "Bootstrap"],
         testing: ["Codecept", "Selenium", "ETL"],
         deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
     },
