@@ -22,9 +22,8 @@ const mySkills = {
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVldmw4aG5nNXA5ODFkaXhjbmF0dWFvOTc5d3RnM3dzbG1mOTRxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDGQgJLkOlSKe08e74/giphy.gif" width="50"> GitHub Stats
 <div align="center">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=R-o-n-a-k&theme=prussian&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&ts=1" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-n-a-k&langs_count=10&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact&ts=1" height="200">
-
+<img src="https://github-readme-stats.vercel.app/api?show_bg=1&username=R-o-n-a-k&theme=prussian&hide_border=true&hide=contribs,issues&show_icons=true&include_all_commits=true&count_private=true&layout=default" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-n-a-k&langs_count=10&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200">
 </div>
 <br>
 
